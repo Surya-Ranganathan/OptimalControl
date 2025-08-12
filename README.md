@@ -3,6 +3,7 @@
 This repository contains Classical, Geomettical amd Optimal controller.
 
 ## Directory Structure
+```bash
 .
 ├── IterativeLinearQuadraticRegulator
 │   └── README.md
