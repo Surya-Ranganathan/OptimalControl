@@ -1,9 +1,9 @@
-# Classic $ Optimal Controllers
+# Classic & Optimal Controllers
 
 This repository contains Classical, Geomettical amd Optimal controller.
 
+## Directory Structure
 .
-
 ├── IterativeLinearQuadraticRegulator
 │   └── README.md
 ├── KinematicBicycleModel
